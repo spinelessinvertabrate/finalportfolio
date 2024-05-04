@@ -1,0 +1,15 @@
+/* Styles for About.html */
+h1 {
+    font-weight: bold;
+    color: #FF00FE;
+    text-shadow: 2px 2px 2px black;
+    margin: 0;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+/* Change the background of h2 tags to light blue */
+h2 {
+    background-color: lightblue;
+    color: white; /* Optionally, you can change the text color to white */
+    padding: 10px;
+}
